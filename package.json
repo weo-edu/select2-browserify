@@ -5,7 +5,9 @@
     "keywords": ["browser", "browserify", "select2"],
     "author": "Igor Vaynberg <igor.vaynberg@gmail.com>",
     "contributors": [],
-    "dependencies": {},
+    "dependencies": {
+        "insert-css": "*"
+    },
     "devDependencies": {},
     "lib": "lib",
     "main": "lib/select2.js",
